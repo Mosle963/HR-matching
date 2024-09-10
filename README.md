@@ -13,3 +13,6 @@ In this site we develovped
 - Signals to edit database accoridingly 
 
 - Password reset using Google SMTP
+
+- Separate control panel to test and train the upgraded model on new data using different parameters.
+
